@@ -5,14 +5,14 @@ author: "Amisha Budhiraja"
 
 vim-config configures your vim editor and makes it more beautiful anddisplay <b>information</b> like vim mode, file name and many more.
 
-#Installation  
+# Installation  
 
 - Clone this repository 
 - Copy .vimrc file into your home folder.
 - Open it and type :PluginInstall. It will install all Plugins in the your $HOME/.vim directory. If you are doing it in your remote server then you <span style="background-color: #d3d3d3">have to manually install the Plugins.
 - If everything goes well then quit and open any file with vim editor. You will be able to see the changes.
 
-#Usage
+# Usage
 <table border=1>
   <tr>
     <th>Command</th>
